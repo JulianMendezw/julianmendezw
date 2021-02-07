@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Julian Mendez</h1>
-<h3 align="center">Student full Stack Developer at Holberton School</h3>
+![](https://media.giphy.com/media/armbFz14rH44KL9oSg/giphy.gif){width=width height=height}
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=julianmendezw&label=Profile%20views&color=0e75b6&style=flat" alt="julianmendezw" /> </p>
 
