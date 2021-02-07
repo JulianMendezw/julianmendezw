@@ -1,4 +1,4 @@
-![](https://media.giphy.com/media/armbFz14rH44KL9oSg/giphy.gif){width=width height=height}
+<div align="center"><img src="https://live.staticflickr.com/65535/50917179217_f9a55ce76c_o.gif"></div>
 
 
 
