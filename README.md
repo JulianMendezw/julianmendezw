@@ -1,5 +1,4 @@
-<div align="center"><img src="https://live.staticflickr.com/65535/50917179217_f9a55ce76c_o.gif"></div>
-
+<div align="center"><img src="https://live.staticflickr.com/65535/50917238852_bc3cd704cf_o.gif"></div>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=julianmendezw&label=Profile%20views&color=0e75b6&style=flat" alt="julianmendezw" /> </p>
